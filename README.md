@@ -14,4 +14,4 @@ Hi, I'm Lokesh👋
 
 ▶️ You can reach out to me at lokeshrajwar23@gmail.com
 ▶️ Find me on Github @LokeshRajwar and on Twitter at @RajwarLokesh
-▶️ Connect with me at LinkedIn: https://www.linkedin.com/in/lokesh-singh-rajwar/
+▶️ Connect with me at LinkedIn: (https://www.linkedin.com/in/lokeshrajwar/)
