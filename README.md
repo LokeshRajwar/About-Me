@@ -1,8 +1,8 @@
 Hi, I'm Lokesh👋
 
-🎓 I am a Junior Year Student at Graphic Era Hill University currently undertaking my Bachelors in Computer Science and Engineering. I am currently an Intern at Samsung PRISM & undergoing a Six-Months "Work-Let Problem" Project. I have been an Enthusiast for "How to build global career in CYBER DEFENSE".
+🎓 Here comes an Engineer from Graphic Era Hill University currently undertaking my Skills in some Pvt Ltd. 
 
-⚡ I'm a Deemed to be Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies. I am looking for opportunities in Web, Cloud and Community Roles in-general with a flair of solving problems as I learn new things.
+⚡ I'm a Java Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies. I am looking for opportunities in Web, Cloud and Community Roles in-general with a flair of solving problems as I learn new things.
 
 ✨ I'm a 3-Star Coder at CODE-CHEF, Growing in CODE-FORCES and Consistently solving various life based problem sets & love to talk about various topics and technologies regarding Competitive Coding.
 
